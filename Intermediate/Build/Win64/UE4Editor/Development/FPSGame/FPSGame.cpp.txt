@@ -1,0 +1,2 @@
+E:\Code\Unreal4\FPSGame\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\Definitions.FPSGame.h
+E:\Code\Unreal4\FPSGame\Source\FPSGame\FPSGame.h
